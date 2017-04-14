@@ -1,9 +1,12 @@
 # Adafruit-TFP401-HDMI-Decoder-Breakout-PCB
-PCB Files for the Adafruit TFP401 HDMI Decoder Breakout
+Модификация оригинального проекта Adafruit TFP401 HDMI Decoder Breakout.
 
-Format is EagleCAD schematic and board layout
+Уменьшен размер платы, заменены некоторые компоненты:
 
-For more details, check out the product page at
+1) разъем microUSB заменен на miniUSB
+2) EEPROM заменен на другой корпус (SOIC-8)
+
+Более детально об оригинальном продукте:
 
     * http://www.adafruit.com/products/2218
     * http://www.adafruit.com/products/2219
